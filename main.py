@@ -366,10 +366,3 @@ except Exception as e:
             
            
     
-#https://pypi.org/project/PyAudio/#files
-#pip install wheel
-#pip install pywin32
-#pip install portaudio
-
-
-#AIzaSyD5J4-DbmzIcXMAgF8JkNydrolz9waFWso
